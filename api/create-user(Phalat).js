@@ -17,8 +17,8 @@ const createUser = async (userData) => {
 (async () => {
   try {
     const userData = {
-      username: "Kapman1",
-      email: "test@test1.com",
+      username: "Picklovephoompoom",
+      email: "test@test2.com",
       password: "Password1",
     };
     
